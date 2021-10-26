@@ -1,0 +1,11 @@
+Model Information:
+* title:	Train - British Rail APT STD Carriage
+* source:	https://sketchfab.com/3d-models/train-british-rail-apt-std-carriage-c5f3bedb31ec464898c9083418a53247
+* author:	timblewee (https://sketchfab.com/timblewee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Train - British Rail APT STD Carriage" (https://sketchfab.com/3d-models/train-british-rail-apt-std-carriage-c5f3bedb31ec464898c9083418a53247) by timblewee (https://sketchfab.com/timblewee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
